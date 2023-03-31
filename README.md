@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Avoid creating -hub dir without processing images (#8334)
