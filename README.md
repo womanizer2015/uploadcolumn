@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
