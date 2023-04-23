@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add visuals in guides/distance-calculation.md (#7876)
