@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
