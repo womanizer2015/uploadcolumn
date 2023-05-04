@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Update H1 in Explorer API docs (#7813)
