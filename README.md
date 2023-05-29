@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
