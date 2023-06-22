@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Update Colab notebook for YOLOv8.1 (#8660)
