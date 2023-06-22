@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Faster batch same_shapes (#8851)
