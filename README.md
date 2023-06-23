@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix device counting method to account for double-digit device IDs (#8502)
