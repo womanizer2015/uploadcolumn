@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+fix for predicting with batch_size > 1 (#47)
