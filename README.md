@@ -1,1 +1,1 @@
-example Google Colab
+Add PaddlePaddle Docs Integrations Page (#8858)
