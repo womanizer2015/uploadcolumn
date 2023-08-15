@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
