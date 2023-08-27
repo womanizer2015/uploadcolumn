@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Clean up unused imgsz (#7771)
