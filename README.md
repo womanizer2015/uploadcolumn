@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+OBB: Fix when training on zip data (#8680)
