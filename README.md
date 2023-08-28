@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add docstrings to new HUB functions (#7576)
