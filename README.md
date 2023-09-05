@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
