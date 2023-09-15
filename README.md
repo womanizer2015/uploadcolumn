@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix Multi-GPU resume bug (#7328)
