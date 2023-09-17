@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Allow Annotator PIL.Image inputs (#8397)
