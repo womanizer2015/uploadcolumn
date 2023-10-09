@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Merge pull request #22 from SkalskiP/patch-1
