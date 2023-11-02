@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Updated SQL Query Plot Code (#8120)
