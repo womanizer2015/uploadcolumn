@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
