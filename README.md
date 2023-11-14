@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Segment TensorRT batch=3 fix (#7952)
