@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Clean up unused imgsz (#7771)
