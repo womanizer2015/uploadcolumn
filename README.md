@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
