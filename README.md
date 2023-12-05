@@ -1,1 +1,1 @@
-added badges (#45)
+Update pyproject.toml and Docs (#7274)
