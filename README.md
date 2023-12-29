@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Move Explorer tests to scheduled CI (#8305)
