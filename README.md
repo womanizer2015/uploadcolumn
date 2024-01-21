@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Remove unused variables (#8511)
