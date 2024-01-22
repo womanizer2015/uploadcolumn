@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update README.md
