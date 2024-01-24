@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
