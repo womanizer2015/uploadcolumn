@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
