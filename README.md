@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
