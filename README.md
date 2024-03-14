@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add Neural Magic Docs integrations page (#7234)
