@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Allow Annotator PIL.Image inputs (#8397)
