@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update HTTP to HTTPS (#7548)
