@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
