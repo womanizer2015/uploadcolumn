@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update pyproject.toml and Docs (#7274)
