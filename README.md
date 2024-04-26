@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
