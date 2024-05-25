@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
