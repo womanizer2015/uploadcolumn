@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
