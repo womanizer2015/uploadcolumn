@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Faster batch same_shapes (#8851)
