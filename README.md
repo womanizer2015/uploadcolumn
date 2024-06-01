@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add bgr hyperparameter (#9139)
