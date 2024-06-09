@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Explorer with LanceDB, Actions and Docs updates (#7487)
