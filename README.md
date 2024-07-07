@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
