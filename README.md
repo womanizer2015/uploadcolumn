@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Updated SQL Query Plot Code (#8120)
