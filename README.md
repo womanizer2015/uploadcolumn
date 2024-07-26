@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
