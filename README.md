@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
