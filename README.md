@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
