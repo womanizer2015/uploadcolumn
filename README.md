@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Compare plt.get_backend() in lowercase (#8409)
