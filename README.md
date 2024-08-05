@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
