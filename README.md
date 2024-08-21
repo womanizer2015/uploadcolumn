@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add PR Summary step to Ultralytics Actions (#7675)
