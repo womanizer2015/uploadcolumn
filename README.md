@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
