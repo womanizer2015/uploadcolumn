@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
