@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+* fix for predicting with batch_size > 1
