@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update TFLite Docs images (#8605)
