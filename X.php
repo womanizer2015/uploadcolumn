@@ -1,3 +1,3 @@
-hg<?php
+<?php
 // fbbdffghgbhsfgdfgshdsfvjghhedtycbhghjyiihjf
 ?>
